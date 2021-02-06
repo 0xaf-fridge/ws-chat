@@ -1,0 +1,11 @@
+{
+  "name": "ws-chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:0xaf-fridge/ws-chat.git",
+  "author": "Slavko Bojanic <slavkobojj@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^7.4.3"
+  }
+}
